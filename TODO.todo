@@ -1,6 +1,6 @@
 [ ] Username & Password database
-    [ ] Google sheets connection and sync
-    [ ] Check if username already registered
+    [ ] mongo db
+    [ ] Check if username already registered if id = null then create if not then update
 
 [ ] Songs time & Lobby activity database
     [ ] Update every 5 seconds to check if times are equal
