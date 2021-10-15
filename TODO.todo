@@ -1,0 +1,11 @@
+[ ] Username & Password database
+    [ ] Google sheets connection and sync
+    [ ] Check if username already registered
+
+[ ] Songs time & Lobby activity database
+    [ ] Update every 5 seconds to check if times are equal
+    [ ] Labels: - IsPrivate
+                - SongTimer
+		- SongLink
+		- HostToken
+		- IsPaused
