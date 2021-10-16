@@ -1,11 +1,16 @@
 [ ] Username & Password database
-    [ ] Google sheets connection and sync
-    [ ] Check if username already registered
+    [ ] mongo db
+    [ ] Check if username already registered if id = null then create if not then update
 
 [ ] Songs time & Lobby activity database
     [ ] Update every 5 seconds to check if times are equal
     [ ] Labels: - IsPrivate
                 - SongTimer
-		- SongLink
-		- HostToken
-		- IsPaused
+                - SongLink
+                - HostToken
+                - IsPaused
+
+[ ] Gui with gui.cs
+    [ ] Login/Register Page
+    [ ] Lobby Room Page
+    [ ] Create/Join Lobby Connection with database
