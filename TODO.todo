@@ -1,3 +1,4 @@
+!IMPORTANT
 [ ] Username & Password database
     [v] mongo db
     [v] Check if username already registered if id = null then create if not then update
@@ -10,6 +11,7 @@
                 - HostToken
                 - IsPaused
 
+!IMPORTANT                
 [ ] Gui with gui.cs
     [ ] Login/Register Page
     [ ] Lobby Room Page

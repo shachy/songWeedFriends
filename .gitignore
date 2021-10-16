@@ -3,6 +3,7 @@
 
 # Just files
 *.json
+*.bson
 
 # Object files
 *.o
